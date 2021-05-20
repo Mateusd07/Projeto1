@@ -33,6 +33,7 @@ console.log("Por razões de segurança, verifique seu ID")
 console.log("sua ID 0482")
 var id = prompt ("confirme seu ID")
 do {
+  console.log ("")      
   console.log("obrigado por comprar conosco!")
 } while(id === 0482)
 
@@ -54,6 +55,7 @@ console.log("Por razões de segurança, verifique seu ID")
 console.log("sua ID 0482")
 var id = prompt ("confirme seu ID")
 do {
+console.log("")
   console.log("obrigado por comprar conosco!")
 } while(id === 0482)
         break
@@ -74,6 +76,7 @@ console.log("Por razões de segurança, verifique seu ID")
 console.log("sua ID 0482")
 var id = prompt ("confirme seu ID")
 do {
+console.log("")
   console.log("obrigado por comprar conosco!")
 } while(id === 0482)
         break
