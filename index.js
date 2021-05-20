@@ -16,6 +16,7 @@ console.log("Escolha uma cor - Preto, Branco ou Vermelho")
 console.log("")
 var preto = prompt ("")
 console.log("")
+console.log ("")
 switch(preto){
         case 'Preto' :
 
